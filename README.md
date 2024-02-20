@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello there! 👋 
+
+My name is Maulana Bayu Risma, and I'm currently learning as a Computer Science student. <br> 
+
+I'm passionately diving into the world of web development, with a keen focus on backend side. <br> 
+
+Reach out to me on [Linkedin](https://www.linkedin.com/in/maulana-bayu/)
 
 <!--
 **bayurisma/bayurisma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
