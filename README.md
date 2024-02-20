@@ -1,6 +1,6 @@
 # Hello there! 👋 
 
-My name is Maulana Bayu Risma, and I'm currently learning as a Computer Science student. <br> 
+My name is Bayu, and I'm currently learning as a Computer Science student. <br> 
 
 I'm passionately diving into the world of web development, with a keen focus on backend side. <br> 
 
@@ -20,5 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="left">
+<a href="https://github.com/bayurisma">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
 
