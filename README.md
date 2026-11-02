@@ -1,10 +1,8 @@
-## Maulana Bayu Risma
-Fullstack Developer based in Jakarta, Indonesia.
+## Maulana Bayu Risma Santoso Sari
+Software Engineer in Jakarta, focused on backend and full-stack web development.
+Currently building test automation for mobile banking at BCA.
 
-### What I Do
-- 🖥️ Frontend: Next.js, React, TypeScript, Tailwind CSS
-- ⚙️ Backend: Django REST, Spring Boot, Express/Nest.js
-- 🗄️ Database: PostgreSQL, schema design & optimization
-- ☁️ DevOps: Docker, Google Cloud Platform, Vercel
+### Stack
+Java (Spring Boot) · Python (Django REST) · TypeScript (Next.js, React) · PostgreSQL · Docker · GCP
 
-Reach out to me on [Linkedin](https://www.linkedin.com/in/maulana-bayu/)
+[LinkedIn](https://www.linkedin.com/in/maulana-bayu/) · maulanabayurisma@gmail.com
